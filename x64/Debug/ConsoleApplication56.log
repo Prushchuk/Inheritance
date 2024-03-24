@@ -1,0 +1,5 @@
+﻿  ConsoleApplication56.cpp
+C:\Users\User\source\repos\ConsoleApplication56\ConsoleApplication56\ConsoleApplication56.cpp(71,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\ConsoleApplication56\ConsoleApplication56\ConsoleApplication56.cpp(144,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\ConsoleApplication56\ConsoleApplication56\ConsoleApplication56.cpp(196,5): error C2084: function 'int main(void)' already has a body
+C:\Users\User\source\repos\ConsoleApplication56\ConsoleApplication56\ConsoleApplication56.cpp(46,5): message : see previous definition of 'main'
